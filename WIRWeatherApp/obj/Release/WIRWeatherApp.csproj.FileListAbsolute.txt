@@ -1,0 +1,11 @@
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\bin\Release\WIRWeatherApp.exe.config
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\bin\Release\WIRWeatherApp.exe
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\bin\Release\WIRWeatherApp.pdb
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\obj\Release\WIRWeatherApp.csproj.AssemblyReference.cache
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\obj\Release\WIRWeatherApp.Form1.resources
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\obj\Release\WIRWeatherApp.Properties.Resources.resources
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\obj\Release\WIRWeatherApp.csproj.GenerateResource.cache
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\obj\Release\WIRWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\obj\Release\WIRWeatherApp.exe
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\obj\Release\WIRWeatherApp.pdb
+C:\Users\nikod\source\repos\WIRWeatherApp\WIRWeatherApp\obj\Release\WIRWeatherApp.Resource1.resources
